@@ -1,0 +1,28 @@
+body{
+    background-color: #d54e25;
+}
+.col-item{
+    border: 2px solid white;
+    border-radius: 3px;
+}
+.container .row:nth-child(2) .col{
+    margin-top: 10px;
+}
+.container .row:nth-child(3) .col{
+    margin-top: 10px;
+}
+.container .row:nth-child(4) .col{
+    margin-top: 10px;
+}
+.container .row:nth-child(5) .col{
+    margin-top: 10px;
+}
+.container .row:nth-child(6) .col{
+    margin-top: 10px;
+}
+.col-item{
+    margin-top: 100px;
+}
+.bg-danger1{
+    background-color: red;
+}
